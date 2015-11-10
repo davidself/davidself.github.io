@@ -12,7 +12,7 @@ http://davidself.github.io/
 简单书写
 </description>
 <lastBuildDate>
-Tue, 10 Nov 2015 15:43:50 +0800
+Tue, 10 Nov 2015 16:20:09 +0800
 </lastBuildDate>
 <generator>
 clj-rss
@@ -104,46 +104,6 @@ vestibulum tortor est nec nisi.
 </enclosure>
 <pubDate>
 Thu, 11 Dec 2014 00:00:00 +0800
-</pubDate>
-</item>
-<item>
-<guid>
-http://davidself.github.io/posts/2014-11-04-second-post.html
-</guid>
-<link>
-http://davidself.github.io/posts/2014-11-04-second-post.html
-</link>
-<title>
-Yet Another Post
-</title>
-<description>
-&lt;h3&gt;&lt;a name=&quot;this&amp;#95;post&amp;#95;so&amp;#95;fetch&quot;&gt;&lt;/a&gt;This Post So Fetch&lt;/h3&gt;&lt;p&gt;some more stuff happened&lt;/p&gt;
-</description>
-<enclosure>
-
-</enclosure>
-<pubDate>
-Tue, 04 Nov 2014 00:00:00 +0800
-</pubDate>
-</item>
-<item>
-<guid>
-http://davidself.github.io/posts/2014-03-10-first-post.html
-</guid>
-<link>
-http://davidself.github.io/posts/2014-03-10-first-post.html
-</link>
-<title>
-A Post
-</title>
-<description>
-&lt;h3&gt;&lt;a name=&quot;this&amp;#95;post&amp;#95;not&amp;#95;fetch&amp;#95;enough&quot;&gt;&lt;/a&gt;This Post Not Fetch Enough&lt;/h3&gt;&lt;p&gt;some stuff happened&lt;/p&gt;
-</description>
-<enclosure>
-
-</enclosure>
-<pubDate>
-Mon, 10 Mar 2014 00:00:00 +0800
 </pubDate>
 </item>
 </channel>
